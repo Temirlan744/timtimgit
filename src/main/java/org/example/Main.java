@@ -5,3 +5,4 @@ public class Main {
         System.out.println("Hello Monday");
     }
 }
+//git rm -r --cached .idea/
