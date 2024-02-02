@@ -1,2 +1,4 @@
-package apple;public class iphone13 {
+package apple;
+
+public class iphone13 {
 }
